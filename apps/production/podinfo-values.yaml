@@ -10,7 +10,7 @@ spec:
   values:
     ingress:
       hosts:
-        - host: podinfo.production
+        - host: podinfo.demo-customer.aws.getup.sh
           paths:
             - path: /
               pathType: ImplementationSpecific
